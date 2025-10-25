@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "name": "Notebook",
+    "price": 100000,
+    "category": "netbook",
+    "description": "Notebook para uso profesional y personal.",
+    "info": "Windos 11, 16GB RAM, 512GB SSD.",
+    "imageUrl": "https://images.unsplash.com/photo-1593642634315-48f5414c3ad9?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "2",
+    "name": "Mouse gamer RGB",
+    "price": 6200,
+    "category": "accesorio",
+    "description": "Mouse ergonómico con luces RGB personalizables.",
+    "info": "Sensor óptico de alta precisión (16.000 DPI). Cable trenzado y botones programables.",
+    "imageUrl": "https://images.unsplash.com/photo-1740516038300-a7f0bd5c9847?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1331"
+  },
+  {
+    "id": "3",
+    "name": "Teclado Inalambrico",
+    "price": 12500,
+    "category": "accesorio",
+    "description": "Teclado bluethooth.",
+    "info": "Cable USB desmontable .",
+    "imageUrl": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1165"
+  },
+  {
+    "id": "4",
+    "name": "Auriculares inalámbricos con micrófono",
+    "price": 9800,
+    "category": "accesorio",
+    "description": "Auriculares Bluetooth con sonido envolvente y cancelación de ruido.",
+    "info": "Micrófono retráctil, batería de 30 horas y conexión rápida por BT 5.0.",
+    "imageUrl": "https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=688"
+  },
+  {
+    "id": "5",
+    "name": "Lámpara LED con cargador USB",
+    "price": 5400,
+    "category": "accesorio",
+    "description": "Lámpara de escritorio con brazo flexible y puerto USB integrado.",
+    "info": "Tres niveles de intensidad de luz, ideal para home office o setup gamer.",
+    "imageUrl": "https://plus.unsplash.com/premium_photo-1677234147181-2510b2c1ea75?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1170"
+  },
+  {
+    "id": "6",
+    "name": "Alfombrilla gamer XXL",
+    "price": 3900,
+    "category": "accesorio",
+    "description": "Mousepad extendido con base antideslizante.",
+    "info": "Superficie microtexturizada, bordes cosidos y diseño resistente al agua.",
+    "imageUrl": "https://images.unsplash.com/photo-1631098985305-d57413e94950?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1170"
+  }
+]
