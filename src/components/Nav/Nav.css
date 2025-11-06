@@ -29,7 +29,6 @@
   transition: all 0.3s ease;
 }
 
-/* 🔹 Subrayado sutil con animación */
 .nav-item::after {
   content: "";
   position: absolute;
@@ -50,7 +49,7 @@
   transform: translateY(-2px);
 }
 
-/* 🛒 Carrito */
+
 .cart-wrapper {
   position: relative;
 }
@@ -65,7 +64,7 @@
   color: #4cc9f0;
 }
 
-/* 🔸 Contador del carrito */
+
 .cart-count {
   position: absolute;
   top: -10px;
